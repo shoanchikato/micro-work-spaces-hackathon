@@ -1,0 +1,12 @@
+login page (done)
+registration for developer (done)
+registration for client (done)
+welcome page  (done)
+display all of the developers on the website 
+display individual developer
+
+Developer Struct: name surname email password skills location completedProjects rating 
+Client Struct: name surname email password lcoation
+
+mayibabo (song)
+
